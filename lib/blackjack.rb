@@ -56,6 +56,8 @@ end
 
 #####################################################
 # get every test to pass before coding runner below #
+
+#cliff set the return value to variable!!
 #####################################################
 
 def runner
